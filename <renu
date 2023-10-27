@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>STUDENT REGISTRATION FORM</title>
+    <style>
+
+    h1 {text-align: center;}
+     p {text-align: center;}
+     div {text-align: center;}
+</style>
+<h1>STUDENT REGISTRATION FORM...</h1>
+</body>
+
+  <!--paragraph-->
+ <p><body><b><h1>FILL UP...</b><u>"Write Your Details in Captial Letter"</u>
+         <br>
+
+    <style>
+body {
+  background-image:url('image.jpg');
+ 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+</head>
+<body>
+    <form action="next php">
+        <br>
+        <br>
+       <div>
+       
+       
+    <th><o1><label>FIRST NAME:</label>
+       <input type="text"name="name">
+    </div>
+    <br>
+    <div>
+       
+     <th><o1><label>LAST NAME:</label>
+        <input type="text"name="name">
+    </div>
+    <br>
+    <div>
+       
+     <th><o1> <label>MOBILE NO:</label>
+        <input type="Number"name="name">
+   
+    </div>
+    <br>
+    <div>
+   
+       <th><o1><label>EMAIL ID:</label>
+        <input type="text"name="name">
+    </div>
+    <br>
+    <div>
+       <th><o1> <label>COLLEGE NAME:</label>
+        <input type="text"name="name">
+    </div>
+    <br>
+    <div>
+     <th><o1><label>BLOOD GROUP:</label>
+        <input type="text"name="name">
+    </div>
+    <br>
+    <div>
+     <th><o1><labal>GENDER:</lebal>
+         <select> name="gen"
+                  <option value="male">male</option>
+                  <option value="female">female</option>
+                  <option value="other">other</option>
+                  </select>
+    </div>
+    <br>
+    <div>
+       
+       <th><o1>  <labal>ADDRESS NAME:</lebal>
+         <input type="text" name="name">
+    </div>
+    <br>
+    <div>
+       <th><o1>   <label>DEPARTMENT NAME:</label>
+          <input type="text"name="name">
+    </div>
+    <br>
+    <div>
+        <th><o1>  <lable>DATE OF BIRTH:</lable>
+          <input type="date" name="name">
+    </div>
+    <br>
+    <div>
+        <th><o1><label>AADHAR NO:</label>
+          <input type="Number" name="name">
+    </div>
+    <br>
+    <div>
+        <th><o1><label>FATHAR NAME:</label>
+           <input type="text" name="name">
+    </div>
+    <br>
+    <div>
+        <th><o1><label>MOTHER NAME:</label>
+          <input type="text" name="name">
+   
+    </div>
+    <br>
+    <div>
+        <th><o1><label>EMIS NO:</label>
+           <input type="Number" name="name">
+    </div>
+    <br>
+    <div>
+        <th><o1><label>ACCOUT NO:</label>
+           <input type="Number" name="name">
+    </div>
+    <br>
+    <div>
+         <th><o1><label>SUBJECT NAME:</label>
+           <input type="text" name="name">
+    </div>
+    <br>
+    <div>
+        <th><o1><label>AGE:</label>
+           <input type="Number" name="name">
+    </div>
+    <br>
+    <div>
+          <th><o1><label>PHOTO:</label>
+            <input type="image" name="name">
+    </div>
+    <br>
+    <div>              
